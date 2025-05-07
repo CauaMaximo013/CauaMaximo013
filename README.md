@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center">Linguagens Estudadas!</h2>
+<h2 align="center">Linguagens Estudadas</h2>
 
 ###
 
